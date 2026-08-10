@@ -1,4 +1,4 @@
-# Simple http server written in C++
+# Simple http server template written in C++
 Just a small project to get familiar with i2pd api.
 # Building
 ## Linux
