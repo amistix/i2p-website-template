@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.5)
 project(i2pwebpage)
 
+set(CMAKE_POLICY_DEFAULT_CMP0167 OLD)
+
 set(WITH_BINARY OFF CACHE BOOL "" FORCE)
 set(WITH_LIBRARY ON CACHE BOOL "" FORCE)
 
